@@ -1,5 +1,5 @@
 # TextTyper
-轻量级打字机，文本显示
+轻量级打字机，文本显示【支持UE4~UE5，但是需要从UE5.6开始迁移】
 介绍视频：https://www.bilibili.com/video/BV1MqHSzoEpQ/
 包含的功能：
 1，逐字播放
