@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "TextTyper325",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Akege304",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "TextTyper325",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
